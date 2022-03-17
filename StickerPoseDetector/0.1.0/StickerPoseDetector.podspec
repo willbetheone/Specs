@@ -28,7 +28,7 @@ A Framework for Sticker Pose Detector.
   s.source           = { :git => 'https://github.com/willbetheone/StickerPoseDetector_iOS.git', :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'StickerPoseDetector/Classes/**/*'
   
